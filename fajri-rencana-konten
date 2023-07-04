@@ -3,9 +3,11 @@ RENCANA KONTEN FAJRI
 -Javascript
   *ES6 (Syntax javascript terbaru)
   *Framework Javascript
-    ^Angular
-    ^React
--PHP Framework 
-    ^Laravel
+     ^Vue
+     ^React (menambahkan react pada Javascript framework)
+-Struktur Data Dasar (Konseptual)
+-PHP Framework
+     ^Laravel
 -Interview
 -Vlogs
+-Materi Python
